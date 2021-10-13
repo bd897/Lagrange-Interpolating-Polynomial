@@ -1,0 +1,2 @@
+# lagrangeInterp
+Lagrange Interpolating Polynomial
